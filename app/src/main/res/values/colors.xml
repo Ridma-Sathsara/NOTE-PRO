@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="MediumSpringGreen">#00FA9A</color>
+    <color name="SpringGreen">#5B439E</color>
+    <color name="light_blue">#A1E2F6</color> <!-- Light blue color -->
+    <color name="dark_blue">#0E0E95</color> <!-- Dark blue color -->
+    <color name="addiconColor">#448AFF</color>
+    <color name="light_gray">#B0C0DA</color>
+
+</resources>
